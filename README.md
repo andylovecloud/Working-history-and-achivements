@@ -1,4 +1,4 @@
-Carolyn Stransky
+<h1>Carolyn Stransky</h1>
 Software engineer and journalist based in Berlin 🇩🇪
 
 Email / Website / LinkedIn / GitHub / Twitter / DEV
