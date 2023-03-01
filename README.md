@@ -1,17 +1,29 @@
-#Tran Huynh An Duy (Andy)
+# Tran Huynh An Duy (Andy)
 
 Software engineer based in Vietnam 
-Email / Website / LinkedIn / GitHub /
 
-👩🏼‍💻 Engineering Experience
+[Email](mailto:duy.cybers@gmail.com) / [Website](https://www.facebook.com/tranhuynhanduy/) / [LinkedIn](https://www.linkedin.com/in/anduytranhuynh/) / [GitHub](https://github.com/andylovecloud/) 
+
+## 👩🏼‍💻 Engineering Experience
 IT Operation Lead for Asia Pacific @Robert Bosch Vietnam (Feb 2017 - Present)
 
-Founding member of BRYTER's design system team and continued to provide support and extend the component library
-Wrote code in multiple architecture layers, including the application core and integrations with external services
-Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-Technologies used: Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+- Leading team to maintain the customer administration tool for Bosch
+- Planning resource, timeline, execution for every new requirements, changes in system
+- Documention for operation manual.
 
 
-🏆 Accomplishments
+## 🏆 Accomplishments
 
-👩🏼‍🎓 Education
+- Best performance in department in 2020
+- Win 02 Project Management Awards in 2021
+
+
+## 👩🏼‍🎓 Education
+
+- Bachelor of Information Technology at HBU university
+
+
+## 💬 Languages
+
+- Vietnameses: Native
+- English
