@@ -6,13 +6,17 @@
 - Facilitate bi-weekly meetings on the Kanban board as acting Scrum Master.
 
 ### 🏆 Accomplishments
-- Apprecation from PLM team for successful to maintain and improve the quality of server's information management system.
+- Apprecation email from PLM team for successful to maintain and improve the quality of server's information management system.
 
 --------------------------------------------------------------
- ![Konecranes-appreciation-email](https://github.com/user-attachments/assets/c47891ae-9cd8-4b86-b9d7-1a0058ebfa31) 
+
 
 --------------------------------------------------------------
-- [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468105/Employment.Certificate_Huynh.An.Duy-.signed.pdf)
+ Appreation email      | Completed date      | Detail       |
+|-----------------|----------------|----------------|
+| Appreation |   |  ![Konecranes-appreciation-email](https://github.com/user-attachments/assets/c47891ae-9cd8-4b86-b9d7-1a0058ebfa31) |
+| PLM team | 06-Aug-2024  | [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468105/Employment.Certificate_Huynh.An.Duy-.signed.pdf)|
+
 
 <hr>
 
@@ -28,7 +32,7 @@
 organizing Language Cafe.
 - Responsible for developing the technical solutions for the matching process of the Friendship Programme and he also improves the markeng plan for the programme by collaborang with partner
 
- Appreation email      | Completed date      | Description       |
+ Certificate of employement | Completed date      | Detail       |
 |-----------------|----------------|----------------|
 | Career Service Team | 30-Apr-2024  | [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468117/Tyoharjoittelutodistus_DuyTranHuynhAn.pdf)|
 
