@@ -29,7 +29,7 @@ organizing Language Cafe.
 
  Topic | Completed date      | Detail       |
 |-----------------|----------------|----------------|
-| Appreation email from Career Service team |   | [Hamk-talent-boost-email](https://github.com/user-attachments/assets/982daa94-10b4-47e8-ade9-e4bb94330448) |
+| Appreation email from Career Service team |   | ![Hamk-talent-boost-email](https://github.com/user-attachments/assets/982daa94-10b4-47e8-ade9-e4bb94330448) |
 | Certificate of Employment (COE)]Career Service Team | 30-Apr-2024  | [Certificate of Employment from HAMK ](https://github.com/user-attachments/files/18468117/Tyoharjoittelutodistus_DuyTranHuynhAn.pdf)|
 
 <hr>
@@ -45,18 +45,18 @@ application servers by daily or monthly as schedule.
 
 ### 🏆 Accomplishments
 
-- Win 02 prizes in "PM Awards 2021"
-  ![Bosch-PM-Awards-1](https://github.com/user-attachments/assets/821de073-abbb-4623-ae36-9f30f8e4d705)
-  ![Bosch-PM-Awards-2](https://github.com/user-attachments/assets/20172195-5a5c-44d8-b7d3-066962707f73)
-  ![Bosch-PM-Awards-3](https://github.com/user-attachments/assets/af9a42ec-d1ef-4200-856d-6dd6c0e746a6)
-- Best performance in department in 2018 & 2020
+- 
+ 
+- 
   ![Best-performance](https://github.com/user-attachments/assets/67c2aba6-f3e1-441e-a698-e71fb255d708)
 
  Topic | Completed date      | Detail       |
 |-----------------|----------------|----------------|
+| Win 02 prizes in "PM Awards 2021"| 2021  |  ![Bosch-PM-Awards-1](https://github.com/user-attachments/assets/821de073-abbb-4623-ae36-9f30f8e4d705)
+  ![Bosch-PM-Awards-2](https://github.com/user-attachments/assets/20172195-5a5c-44d8-b7d3-066962707f73)
+  ![Bosch-PM-Awards-3](https://github.com/user-attachments/assets/af9a42ec-d1ef-4200-856d-6dd6c0e746a6)|
+| Best performance in department in 2018 & 2020| 2018 |  ![Best-performance](https://github.com/user-attachments/assets/67c2aba6-f3e1-441e-a698-e71fb255d708) |
 | Certificate of Employment (COE)]HR|  | Team [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468123/Bosch-COE-Tran-Huynh-An-Duy.pdf) |
-
-
 <hr>
 
 ## 👩🏼‍🎓 Education
