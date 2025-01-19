@@ -1,29 +1,53 @@
-# Tran Huynh An Duy (Andy)
+# Konecranes Global Oy
+### 👨🏻‍💻 Trainee at Product Life Cycle Management team (May 2024 - Aug 2024)
 
-Software engineer based in Vietnam 
+- Cross-verifying and updating product information for existing software via the Service Now platform.
+- Coordinate with stakeholders to maintain the version control information and update the same in Confluence and Jira trackers.
+- Facilitate bi-weekly meetings on the Kanban board as acting Scrum Master.
 
-[Email](mailto:duy.cybers@gmail.com) / [Website](https://www.facebook.com/tranhuynhanduy/) / [LinkedIn](https://www.linkedin.com/in/anduytranhuynh/) / [GitHub](https://github.com/andylovecloud/) 
+### 🏆 Accomplishments
+- Apprecation from PLM team for successful to maintain and improve the quality of server's information management system.
+![Konecranes-appreciation-email](https://github.com/user-attachments/assets/c47891ae-9cd8-4b86-b9d7-1a0058ebfa31)
 
-## 👩🏼‍💻 Engineering Experience
-IT Operation Lead for Asia Pacific @Robert Bosch Vietnam (Feb 2017 - Present)
-
-- Leading team to maintain the customer administration tool for Bosch
-- Planning resource, timeline, execution for every new requirements, changes in system
-- Documention for operation manual.
+- Certificate of Employment (COE)[Employment Certificate_Huynh An Duy- signed.pdf](https://github.com/user-attachments/files/18468105/Employment.Certificate_Huynh.An.Duy-.signed.pdf)
 
 
-## 🏆 Accomplishments
 
-- Best performance in department in 2020
-- Win 02 Project Management Awards in 2021
+# Häme University of Applied Sciences (HAMK)
+### 👨🏻‍💻 Trainee at Career Service team (Dec 2023 - Apr 2024)
+
+- Provides international students with guidance regarding networking and mentoring services
+- Consulting about competence and career path
+- Support search and implement new technologies internal applications.
+
+
+# Robert Bosch Global IT Software Technologies Vietnam
+### 👨🏻‍💻 IT Operation Lead for Asia Pacific @Robert Bosch Vietnam (Feb 2017 - Jun 2023)
+
+- Lead Operation team for Daily support global users via phone call / emails / ticket handling base on level O1, O2, O3 of ITIL standard.
+- Support analysis new problems in IT systems (Bosch Global Network system, Wiki system, Content management system, Bosch Connect Social Network)
+Making action plans, coordination with stakeholders, training for internal team and end users before releasing new versions.
+- Maintain IT Operation Manual (ITOM) documents, user guidelines Maintain and improve functionalities of services in
+application servers by daily or monthly as schedule.
+
+### 🏆 Accomplishments
+
+- Win 02 prizes in "PM Awards 2021"
+  ![Bosch-PM-Awards-1](https://github.com/user-attachments/assets/821de073-abbb-4623-ae36-9f30f8e4d705)
+  ![Bosch-PM-Awards-2](https://github.com/user-attachments/assets/20172195-5a5c-44d8-b7d3-066962707f73)
+  ![Bosch-PM-Awards-3](https://github.com/user-attachments/assets/af9a42ec-d1ef-4200-856d-6dd6c0e746a6)
+- Best performance in department in 2018 & 2020
+  ![Best-performance](https://github.com/user-attachments/assets/67c2aba6-f3e1-441e-a698-e71fb255d708)
 
 
 ## 👩🏼‍🎓 Education
 
+- Bachelor of Business Administration in Computer Application at HAMK university
 - Bachelor of Information Technology at HBU university
 
 
 ## 💬 Languages
 
 - Vietnameses: Native
-- English
+- English : Professional
+- Finnish: Basic
