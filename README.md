@@ -51,7 +51,8 @@ application servers by daily or monthly as schedule.
 | Win 02 prizes in "PM Awards 2021"| 2021  |  ![Bosch-PM-Awards-1](https://github.com/user-attachments/assets/821de073-abbb-4623-ae36-9f30f8e4d705)|
 |                                  |       |  ![Bosch-PM-Awards-2](https://github.com/user-attachments/assets/20172195-5a5c-44d8-b7d3-066962707f73)|
 |                                  |       |  ![Bosch-PM-Awards-3](https://github.com/user-attachments/assets/af9a42ec-d1ef-4200-856d-6dd6c0e746a6)|
-| Best performance in department in 2018 & 2020| 2018,2020 |  ![Best-performance](https://github.com/user-attachments/assets/67c2aba6-f3e1-441e-a698-e71fb255d708) |
+| Best performance in department in 2020| 2020 |  ![IMG_3132](https://github.com/user-attachments/assets/7d12cde6-43c3-49c3-a452-ab78d9163b34)|
+| Best performance in department in 2018| 2018 |  ![Best-performance](https://github.com/user-attachments/assets/67c2aba6-f3e1-441e-a698-e71fb255d708)
 | Certificate of Employment (COE)|  | [Certificate of Employment from BOSCH VietNam ](https://github.com/user-attachments/files/18468123/Bosch-COE-Tran-Huynh-An-Duy.pdf) |
 
 <hr>
@@ -70,7 +71,7 @@ application servers by daily or monthly as schedule.
 
  Topic            | Completed date         | Detail       |
 |-----------------|----------------        |----------------|
-| Star of the Year 2015 |            2015  |  The best staff has outstanding effort & an ongoing commitment to pursuit of excellence on 2015|
+| Star of the Year 2015 |            2015  |  The best staff has outstanding effort & an ongoing commitment to pursuit of excellence on 2015 ![IMG_4967](https://github.com/user-attachments/assets/c8921140-7b90-4c70-9c2f-a8296c4b667e)|
 | Staff of the month    | 2014,2015,2016   |  Archived 03 times of "Staff of the month" awards for outstanding performance from 2014 to 2016|
 
 
