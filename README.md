@@ -9,9 +9,9 @@
 - Apprecation from PLM team for successful to maintain and improve the quality of server's information management system.
 ![Konecranes-appreciation-email](https://github.com/user-attachments/assets/c47891ae-9cd8-4b86-b9d7-1a0058ebfa31)
 
-- [Certificate of Employment (COE):](https://github.com/user-attachments/files/18468105/Employment.Certificate_Huynh.An.Duy-.signed.pdf)
+- [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468105/Employment.Certificate_Huynh.An.Duy-.signed.pdf)
 
-<br>
+<hr>
 
 # Häme University of Applied Sciences (HAMK)
 ### 👨🏻‍💻 Trainee at Career Service team (Dec 2023 - Apr 2024)
@@ -26,7 +26,7 @@ organizing Language Cafe.
 - Responsible for developing the technical solutions for the matching process of the Friendship Programme and he also improves the markeng plan for the programme by collaborang with partner
 - [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468117/Tyoharjoittelutodistus_DuyTranHuynhAn.pdf)
 
-
+<hr>
 
 # Robert Bosch Global IT Software Technologies Vietnam
 ### 👨🏻‍💻 IT Operation Lead for Asia Pacific @Robert Bosch Vietnam (Feb 2017 - Jun 2023)
@@ -46,6 +46,10 @@ application servers by daily or monthly as schedule.
 - Best performance in department in 2018 & 2020
   ![Best-performance](https://github.com/user-attachments/assets/67c2aba6-f3e1-441e-a698-e71fb255d708)
 
+- [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468123/Bosch-COE-Tran-Huynh-An-Duy.pdf)
+
+
+<hr>
 
 ## 👩🏼‍🎓 Education
 
