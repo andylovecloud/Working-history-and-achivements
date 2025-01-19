@@ -9,16 +9,23 @@
 - Apprecation from PLM team for successful to maintain and improve the quality of server's information management system.
 ![Konecranes-appreciation-email](https://github.com/user-attachments/assets/c47891ae-9cd8-4b86-b9d7-1a0058ebfa31)
 
-- Certificate of Employment (COE)[Employment Certificate_Huynh An Duy- signed.pdf](https://github.com/user-attachments/files/18468105/Employment.Certificate_Huynh.An.Duy-.signed.pdf)
+- [Certificate of Employment (COE):](https://github.com/user-attachments/files/18468105/Employment.Certificate_Huynh.An.Duy-.signed.pdf)
 
-
+<br>
 
 # Häme University of Applied Sciences (HAMK)
 ### 👨🏻‍💻 Trainee at Career Service team (Dec 2023 - Apr 2024)
 
 - Provides international students with guidance regarding networking and mentoring services
-- Consulting about competence and career path
+- Consulting about competence and career path and improving Mentoring service.
 - Support search and implement new technologies internal applications.
+
+### 🏆 Accomplishments
+- Contributed to improving the service design of Mentoring Services at HAMK, developing HAMK´s Internaonal Friendship Programme, supporng internaonal students in recruitment events, and
+organizing Language Cafe.
+- Responsible for developing the technical solutions for the matching process of the Friendship Programme and he also improves the markeng plan for the programme by collaborang with partner
+- [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468117/Tyoharjoittelutodistus_DuyTranHuynhAn.pdf)
+
 
 
 # Robert Bosch Global IT Software Technologies Vietnam
