@@ -6,16 +6,11 @@
 - Facilitate bi-weekly meetings on the Kanban board as acting Scrum Master.
 
 ### 🏆 Accomplishments
-- Apprecation email from PLM team for successful to maintain and improve the quality of server's information management system.
 
---------------------------------------------------------------
-
-
---------------------------------------------------------------
- Appreation email      | Completed date      | Detail       |
+ Topic      | Completed date      | Detail       |
 |-----------------|----------------|----------------|
-| Appreation |   |  ![Konecranes-appreciation-email](https://github.com/user-attachments/assets/c47891ae-9cd8-4b86-b9d7-1a0058ebfa31) |
-| PLM team | 06-Aug-2024  | [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468105/Employment.Certificate_Huynh.An.Duy-.signed.pdf)|
+| Appreation email from PLM team |   |  ![Konecranes-appreciation-email](https://github.com/user-attachments/assets/c47891ae-9cd8-4b86-b9d7-1a0058ebfa31) |
+| Certificate of Employment (COE) | 06-Aug-2024  | [Certificate of Employment from PLM team](https://github.com/user-attachments/files/18468105/Employment.Certificate_Huynh.An.Duy-.signed.pdf)|
 
 
 <hr>
@@ -32,9 +27,10 @@
 organizing Language Cafe.
 - Responsible for developing the technical solutions for the matching process of the Friendship Programme and he also improves the markeng plan for the programme by collaborang with partner
 
- Certificate of employement | Completed date      | Detail       |
+ Topic | Completed date      | Detail       |
 |-----------------|----------------|----------------|
-| Career Service Team | 30-Apr-2024  | [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468117/Tyoharjoittelutodistus_DuyTranHuynhAn.pdf)|
+| Appreation email from Career Service team |   | [Hamk-talent-boost-email](https://github.com/user-attachments/assets/982daa94-10b4-47e8-ade9-e4bb94330448) |
+| Certificate of Employment (COE)]Career Service Team | 30-Apr-2024  | [Certificate of Employment from HAMK ](https://github.com/user-attachments/files/18468117/Tyoharjoittelutodistus_DuyTranHuynhAn.pdf)|
 
 <hr>
 
@@ -56,7 +52,9 @@ application servers by daily or monthly as schedule.
 - Best performance in department in 2018 & 2020
   ![Best-performance](https://github.com/user-attachments/assets/67c2aba6-f3e1-441e-a698-e71fb255d708)
 
-- [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468123/Bosch-COE-Tran-Huynh-An-Duy.pdf)
+ Topic | Completed date      | Detail       |
+|-----------------|----------------|----------------|
+| Certificate of Employment (COE)]HR|  | Team [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468123/Bosch-COE-Tran-Huynh-An-Duy.pdf) |
 
 
 <hr>
