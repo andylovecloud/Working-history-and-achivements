@@ -7,7 +7,8 @@
 
 ### 🏆 Accomplishments
 - Apprecation from PLM team for successful to maintain and improve the quality of server's information management system.
-![Konecranes-appreciation-email](https://github.com/user-attachments/assets/c47891ae-9cd8-4b86-b9d7-1a0058ebfa31)
+
+| ![Konecranes-appreciation-email](https://github.com/user-attachments/assets/c47891ae-9cd8-4b86-b9d7-1a0058ebfa31) |
 
 - [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468105/Employment.Certificate_Huynh.An.Duy-.signed.pdf)
 
