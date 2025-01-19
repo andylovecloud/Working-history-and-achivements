@@ -8,8 +8,10 @@
 ### 🏆 Accomplishments
 - Apprecation from PLM team for successful to maintain and improve the quality of server's information management system.
 
+--------------------------------------------------------------
  ![Konecranes-appreciation-email](https://github.com/user-attachments/assets/c47891ae-9cd8-4b86-b9d7-1a0058ebfa31) 
 
+--------------------------------------------------------------
 - [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468105/Employment.Certificate_Huynh.An.Duy-.signed.pdf)
 
 <hr>
@@ -25,9 +27,10 @@
 - Contributed to improving the service design of Mentoring Services at HAMK, developing HAMK´s Internaonal Friendship Programme, supporng internaonal students in recruitment events, and
 organizing Language Cafe.
 - Responsible for developing the technical solutions for the matching process of the Friendship Programme and he also improves the markeng plan for the programme by collaborang with partner
-- | Appreation email      | Completed date      | Description       |
+
+ Appreation email      | Completed date      | Description       |
 |-----------------|----------------|----------------|
-| Career Service Team | 30-Apr-2024  | - [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468117/Tyoharjoittelutodistus_DuyTranHuynhAn.pdf)|
+| Career Service Team | 30-Apr-2024  | [Certificate of Employment (COE)](https://github.com/user-attachments/files/18468117/Tyoharjoittelutodistus_DuyTranHuynhAn.pdf)|
 
 <hr>
 
