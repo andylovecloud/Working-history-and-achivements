@@ -82,8 +82,9 @@ application servers by daily or monthly as schedule.
 
 ## 👩🏼‍🎓 Education
 
-- Bachelor of Business Administration in Computer Application at HAMK university
-- Bachelor of Information Technology at HBU university
+- Bachelor of Business Administration in Computer Application at HAMK university (2023-2025)
+- Bachelor of Information Technology at HBU university (2013-2017)
+- Advance Diploma in Cyber Security (2011-2013)
 
 
 ## 💬 Languages
