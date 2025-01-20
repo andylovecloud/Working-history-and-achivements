@@ -42,6 +42,7 @@ organizing Language Cafe.
 Making action plans, coordination with stakeholders, training for internal team and end users before releasing new versions.
 - Maintain IT Operation Manual (ITOM) documents, user guidelines Maintain and improve functionalities of services in
 application servers by daily or monthly as schedule.
+- Internal trainer for "General Intercultural Awareness" for new employees of company.
 
 ### 🏆 Accomplishments
 
@@ -53,6 +54,8 @@ application servers by daily or monthly as schedule.
 |                                  |       |  ![Bosch-PM-Awards-3](https://github.com/user-attachments/assets/af9a42ec-d1ef-4200-856d-6dd6c0e746a6)|
 | Best performance in department in 2020| 2020 | ![Best-performer-2020](https://github.com/user-attachments/assets/83f04363-880f-4014-8934-78f05102597b)|
 | Best performance in department in 2018| 2018 |  ![Best-performance](https://github.com/user-attachments/assets/67c2aba6-f3e1-441e-a698-e71fb255d708)|
+| Feedback about my training result| 2023 | ![Appreciation-email-from-BOSCH-HR](https://github.com/user-attachments/assets/42c64b9c-74ff-444d-9a67-3b2dcea6d9d3)|
+|                                  |      | ![Training-feedback](https://github.com/user-attachments/assets/893f35e4-5104-4387-8cf3-12d38ad80f46)|
 | Certificate of Employment (COE)|  | [Certificate of Employment from BOSCH VietNam ](https://github.com/user-attachments/files/18468123/Bosch-COE-Tran-Huynh-An-Duy.pdf) |
 
 <hr>
