@@ -47,16 +47,16 @@ application servers by daily or monthly as schedule.
 ### 🏆 Accomplishments
 
 
- Topic            | Completed date         | Detail       |
-|-----------------|----------------        |----------------|
-| Win 02 prizes in "PM Awards 2021"| 2021  |  ![Bosch-PM-Awards-1](https://github.com/user-attachments/assets/821de073-abbb-4623-ae36-9f30f8e4d705)|
-|                                  |       |  ![Bosch-PM-Awards-2](https://github.com/user-attachments/assets/20172195-5a5c-44d8-b7d3-066962707f73)|
-|                                  |       |  ![Bosch-PM-Awards-3](https://github.com/user-attachments/assets/af9a42ec-d1ef-4200-856d-6dd6c0e746a6)|
+ Topic            | Completed date             | Detail       |
+|-----------------|----------------            |----------------|
+| Win 02 prizes in "PM Awards 2021"| 2021      |  ![Bosch-PM-Awards-1](https://github.com/user-attachments/assets/821de073-abbb-4623-ae36-9f30f8e4d705)|
+|                                  |           |  ![Bosch-PM-Awards-2](https://github.com/user-attachments/assets/20172195-5a5c-44d8-b7d3-066962707f73)|
+|                                  |           |  ![Bosch-PM-Awards-3](https://github.com/user-attachments/assets/af9a42ec-d1ef-4200-856d-6dd6c0e746a6)|
 | Best performance in department in 2020| 2020 | ![Best-performer-2020](https://github.com/user-attachments/assets/83f04363-880f-4014-8934-78f05102597b)|
 | Best performance in department in 2018| 2018 |  ![Best-performance](https://github.com/user-attachments/assets/67c2aba6-f3e1-441e-a698-e71fb255d708)|
-| Feedback about my training result| 2023 | ![Appreciation-email-from-BOSCH-HR](https://github.com/user-attachments/assets/42c64b9c-74ff-444d-9a67-3b2dcea6d9d3)|
-|                                  |      | ![Training-feedback](https://github.com/user-attachments/assets/893f35e4-5104-4387-8cf3-12d38ad80f46)|
-| Certificate of Employment (COE)|  | [Certificate of Employment from BOSCH VietNam ](https://github.com/user-attachments/files/18468123/Bosch-COE-Tran-Huynh-An-Duy.pdf) |
+| Feedback about my training result| 2023      | ![Appreciation-email-from-BOSCH-HR](https://github.com/user-attachments/assets/194d1cf2-14de-4745-9c96-b8f1beabea97)|
+|                                  |           | ![Training-feedback](https://github.com/user-attachments/assets/893f35e4-5104-4387-8cf3-12d38ad80f46)|
+| Certificate of Employment (COE)  |           | [Certificate of Employment from BOSCH VietNam ](https://github.com/user-attachments/files/18468123/Bosch-COE-Tran-Huynh-An-Duy.pdf) |
 
 <hr>
 
