@@ -75,7 +75,7 @@ application servers by daily or monthly as schedule.
  Topic            | Completed date         | Detail       |
 |-----------------|----------------        |----------------|
 | Star of the Year 2015 |            2015  |  The best staff has outstanding effort & an ongoing commitment to pursuit of excellence on 2015 ![IMG_4967](https://github.com/user-attachments/assets/c8921140-7b90-4c70-9c2f-a8296c4b667e)|
-| Staff of the month    | 2014,2015,2016   |  Archived 03 times of "Staff of the month" awards for outstanding performance from 2014 to 2016|
+| Staff of the month    | 2014,2015,2016   |  Achived 03 times of "Staff of the month" awards for outstanding performance from 2014 to 2016|
 
 
 <hr>
