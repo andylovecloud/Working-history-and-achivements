@@ -1,9 +1,9 @@
 # Konecranes Global Oy
-### 👨🏻‍💻 Trainee at Product Life Cycle Management team (May 2024 - Aug 2024)
+### 👨🏻‍💻 Trainee at Product Life Cycle Management team (May 2024 - Aug 2024) and (May 2025 - Aug 2025)
 
-- Cross-verifying and updating product information for existing software via the Service Now platform.
-- Coordinate with stakeholders to maintain the version control information and update the same in Confluence and Jira trackers.
-- Facilitate bi-weekly meetings on the Kanban board as acting Scrum Master.
+- Cross verify and maintain the quality of information for existing software development process via Service Now platform.
+- Coordinate with stakeholders, cross functional team to improve quality of software delivery in Confluence and Jira trackers.
+- Facilitate change and release management processes, make sure team follow CI/CD best practices and release plan.
 
 ### 🏆 Accomplishments
 
