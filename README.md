@@ -1,9 +1,14 @@
 # Konecranes Global Oy
-### 👨🏻‍💻 Trainee at Product Life Cycle Management team (May 2024 - Aug 2024) and (May 2025 - Aug 2025)
+### 👨🏻‍💻 Trainee at Product Life Cycle Management team (May 2024 - Aug 2024) and (May 2025 - now)
 
-- Cross verify and maintain the quality of information for existing software development process via Service Now platform.
-- Coordinate with stakeholders, cross functional team to improve quality of software delivery in Confluence and Jira trackers.
-- Facilitate change and release management processes, make sure team follow CI/CD best practices and release plan.
+- Conducted **quality assurance checks** to ensure integrity and compliance of software development processes on ServiceNow,
+reducing post-release defects by **15%**.
+- Collaborated with stakeholders and cross-functional teams, using **Confluence** and **Jira** to track issues, improvements, and release
+progress.
+- Facilitated **change and release management** following **CI/CD** best practices, leveraging **Tomcat, Jenkins and Bitbucket**, ensuring releases
+were delivered on schedule with minimal rollbacks.
+- Supported continuous improvement initiatives by coordinating with Dev and Ops teams to implement software delivery quality enhancements.
+- Participated in weekly and quarterly sprint planning, contributing to group projects and pair programming exercises, improving team productivity and code quality.
 
 ### 🏆 Accomplishments
 
@@ -18,14 +23,15 @@
 # Häme University of Applied Sciences (HAMK)
 ### 👨🏻‍💻 Trainee at Career Service team (Dec 2023 - Apr 2024)
 
-- Provides international students with guidance regarding networking and mentoring services
-- Consulting about competence and career path and improving Mentoring service.
-- Support search and implement new technologies internal applications.
+- Orchestrated a series of 5 successful job fairs and recruitment events, fostering strong connections between a diverse pool of candidates and
+top employers in the IT and business sectors.
+- Leveraged survey tools such as **Google Forms** and **Excel** analytics (Macro) to assess and enhance career services programs, achieving a significant **25% **increase in participant satisfaction.
+- Efficiently managed a comprehensive career services database using **CRM** and **Excel**, maintaining precise records and tracking the progress
+and employment outcomes for over 200 clients.
 
 ### 🏆 Accomplishments
-- Contributed to improving the service design of Mentoring Services at HAMK, developing HAMK´s Internaonal Friendship Programme, supporng internaonal students in recruitment events, and
-organizing Language Cafe.
-- Responsible for developing the technical solutions for the matching process of the Friendship Programme and he also improves the markeng plan for the programme by collaborang with partner
+- Contributed to improving the service design of Mentoring Services at HAMK, developing HAMK´s Internaonal Friendship Programme, supporng internaonal students in recruitment events, and organizing Language Cafe programe.
+- Responsible for developing the technical solutions for the matching process of the Friendship Programme and he also improves the marketing plan for the programme by collaborating with partner
 
  Topic            | Completed date      | Detail         |
 |-----------------|----------------     |----------------|
@@ -35,14 +41,18 @@ organizing Language Cafe.
 <hr>
 
 # Robert Bosch Global IT Software Technologies Vietnam
-### 👨🏻‍💻 IT Operation Lead for Asia Pacific @Robert Bosch Vietnam (Feb 2017 - Jun 2023)
+### 👨🏻‍💻 IT Operation Lead for Asia Pacific @Robert Bosch Vietnam (Feb 2017 - Jun 2023) /Release Manager
 
-- Lead Operation team for Daily support global users via phone call / emails / ticket handling base on level O1, O2, O3 of ITIL standard.
-- Support analysis new problems in IT systems (Bosch Global Network system, Wiki system, Content management system, Bosch Connect Social Network)
-Making action plans, coordination with stakeholders, training for internal team and end users before releasing new versions.
-- Maintain IT Operation Manual (ITOM) documents, user guidelines Maintain and improve functionalities of services in
-application servers by daily or monthly as schedule.
-- Internal trainer for "General Intercultural Awareness" for new employees of company.
+- Led IT operations team in supporting 500+ global users, ensuring** SLA** compliance within the **ITIL framework** through phone, email, and
+ticketing systems (**ServiceNow, Jir**a).
+- Streamlined incident ticket analysis and prioritization, achieving a **20%** reduction in backlog and enhancing resolution times for critical issues.
+- Developed and conducted training sessions for internal and external users, which increase 30% in the adoption rate.
+- Managed and fine-tuned application servers (**Linux, IIS, Windows server**) through regular maintenance tasks, boosting system stability and
+uptime.
+- Participated in **change and release managemen**t, authored release plans, detailing milestones, resource allocation, and** risk assessments**,
+**release monitoring** and maintained documentation in **Confluence**.
+- Facilitated collaboration among **cross-functional teams** (Development,QA, Operations)
+- Implemented automation scripts (**Python, PowerShell, Bash**)
 
 ### 🏆 Accomplishments
 
