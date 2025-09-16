@@ -25,7 +25,7 @@ were delivered on schedule with minimal rollbacks.
 
 - Orchestrated a series of 5 successful job fairs and recruitment events, fostering strong connections between a diverse pool of candidates and
 top employers in the IT and business sectors.
-- Leveraged survey tools such as **Google Forms** and **Excel** analytics (Macro) to assess and enhance career services programs, achieving a significant **25% **increase in participant satisfaction.
+- Leveraged survey tools such as **Google Forms** and **Excel** analytics (Macro) to assess and enhance career services programs, achieving a significant **25%** increase in participant satisfaction.
 - Efficiently managed a comprehensive career services database using **CRM** and **Excel**, maintaining precise records and tracking the progress
 and employment outcomes for over 200 clients.
 
@@ -43,13 +43,13 @@ and employment outcomes for over 200 clients.
 # Robert Bosch Global IT Software Technologies Vietnam
 ### 👨🏻‍💻 IT Operation Lead for Asia Pacific @Robert Bosch Vietnam (Feb 2017 - Jun 2023) /Release Manager
 
-- Led IT operations team in supporting 500+ global users, ensuring** SLA** compliance within the **ITIL framework** through phone, email, and
-ticketing systems (**ServiceNow, Jir**a).
+- Led IT operations team in supporting 500+ global users, ensuring **SLA** compliance within the **ITIL framework** through phone, email, and
+ticketing systems (**ServiceNow, Jira**).
 - Streamlined incident ticket analysis and prioritization, achieving a **20%** reduction in backlog and enhancing resolution times for critical issues.
-- Developed and conducted training sessions for internal and external users, which increase 30% in the adoption rate.
+- Developed and conducted training sessions for internal and external users, which increase **30%** in the adoption rate.
 - Managed and fine-tuned application servers (**Linux, IIS, Windows server**) through regular maintenance tasks, boosting system stability and
 uptime.
-- Participated in **change and release managemen**t, authored release plans, detailing milestones, resource allocation, and** risk assessments**,
+- Participated in **change and release managemen**t, authored release plans, detailing milestones, resource allocation, and **risk assessments**,
 **release monitoring** and maintained documentation in **Confluence**.
 - Facilitated collaboration among **cross-functional teams** (Development,QA, Operations)
 - Implemented automation scripts (**Python, PowerShell, Bash**)
@@ -72,7 +72,7 @@ uptime.
 
 # BHD STAR CINEPLEX (BHD CO LTD) - BHDSTAR.VN
 ### 👨🏻‍💻 IT Executive (Apr 2013 - Jul 2016)
-- Install & configure database using MSSQL Server.
+- Install & configure database using **MySQL & MSSQL Server**.
 - Customize store procedures to improve time processing of database.
 - Install, Configure, maintain network services and devices.
 - Setup , maintain and training for users when update/upgrade new applications in system
